@@ -5,7 +5,7 @@ A python Sudoko solver
 ###./sudoku.py <2d 9x9 array>
 
 ##E.G.
-[5 3 0&nbsp;&nbsp;   0 7 0&nbsp;&nbsp;   0 0 0]     
+[5 3 0&nbsp;&nbsp;   0 7 0  &nbsp;&nbsp; 0 0 0]     
 [6 0 0&nbsp;&nbsp;   1 9 5  &nbsp;&nbsp; 0 0 0]    
 [0 9 8&nbsp;&nbsp;   0 0 0  &nbsp;&nbsp; 0 6 0]  
    
@@ -19,7 +19,7 @@ A python Sudoko solver
 
 Will be converted to    
    
-[[5 3 4 &nbsp;&nbsp;  6 7 8  &nbsp;&nbsp; 9 1 2]    
+ [5 3 4 &nbsp;&nbsp;  6 7 8  &nbsp;&nbsp; 9 1 2]    
  [6 7 2 &nbsp;&nbsp;  1 9 5 &nbsp;&nbsp;  3 4 8]    
  [1 9 8 &nbsp;&nbsp;  3 4 2 &nbsp;&nbsp;  5 6 7]    
     
