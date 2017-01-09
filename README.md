@@ -15,7 +15,7 @@ A python Sudoko solver
     
 [0 6 0&nbsp;&nbsp;   0 0 0  &nbsp;&nbsp; 2 8 0]    
 [0 0 0&nbsp;&nbsp;   4 1 9 &nbsp;&nbsp;  0 0 5]   
-[0 0 0&nbsp;&nbsp;   0 8 0 &nbsp;&nbsp;  0 7 9]]    
+[0 0 0&nbsp;&nbsp;   0 8 0 &nbsp;&nbsp;  0 7 9]       
 
 Will be converted to    
    
@@ -29,4 +29,4 @@ Will be converted to
     
  [9 6 1 &nbsp;&nbsp;  5 3 7 &nbsp;&nbsp;  2 8 4]    
  [2 8 7 &nbsp;&nbsp;  4 1 9 &nbsp;&nbsp;  6 3 5]   
- [3 4 5 &nbsp;&nbsp;  2 8 6  &nbsp;&nbsp; 1 7 9]]   
+ [3 4 5 &nbsp;&nbsp;  2 8 6  &nbsp;&nbsp; 1 7 9]     
