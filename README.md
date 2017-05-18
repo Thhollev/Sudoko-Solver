@@ -1,5 +1,5 @@
-# Sudoko-Solver
-A python Sudoko solver
+# Sudoku-Solver
+A python Sudoku solver
 
 ## USAGE
 `sudoku.py <2d 9x9 array>`
