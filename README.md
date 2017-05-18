@@ -1,10 +1,10 @@
 # Sudoko-Solver
 A python Sudoko solver
 
-##USAGE
-###./sudoku.py <2d 9x9 array>
+## USAGE
+### `./sudoku.py <2d 9x9 array>`
 
-##E.G.
+## For example
 [5 3 0 &nbsp;&nbsp;&nbsp;&nbsp;   0 7 0  &nbsp;&nbsp;&nbsp;&nbsp; 0 0 0]     
 [6 0 0 &nbsp;&nbsp;&nbsp;&nbsp;   1 9 5  &nbsp;&nbsp;&nbsp;&nbsp; 0 0 0]    
 [0 9 8 &nbsp;&nbsp;&nbsp;&nbsp;   0 0 0  &nbsp;&nbsp;&nbsp;&nbsp; 0 6 0]  
@@ -17,7 +17,7 @@ A python Sudoko solver
 [0 0 0 &nbsp;&nbsp;&nbsp;&nbsp;   4 1 9 &nbsp;&nbsp;&nbsp;&nbsp;  0 0 5]   
 [0 0 0 &nbsp;&nbsp;&nbsp;&nbsp;   0 8 0 &nbsp;&nbsp;&nbsp;&nbsp;  0 7 9]       
 
-##Will be converted to    
+## Will be converted to    
    
  [5 3 4 &nbsp;&nbsp;&nbsp;&nbsp;  6 7 8  &nbsp;&nbsp;&nbsp;&nbsp; 9 1 2]    
  [6 7 2 &nbsp;&nbsp;&nbsp;&nbsp;  1 9 5 &nbsp;&nbsp;&nbsp;&nbsp;  3 4 8]    
