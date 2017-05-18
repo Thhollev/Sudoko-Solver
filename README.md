@@ -2,7 +2,7 @@
 A python Sudoko solver
 
 ## USAGE
-### `./sudoku.py <2d 9x9 array>`
+`./sudoku.py <2d 9x9 array>`
 
 ## For example
 [5 3 0 &nbsp;&nbsp;&nbsp;&nbsp;   0 7 0  &nbsp;&nbsp;&nbsp;&nbsp; 0 0 0]     
