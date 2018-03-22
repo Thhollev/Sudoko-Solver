@@ -55,5 +55,5 @@ if __name__ == '__main__':
         print("\n SOLVED -> "+str(solveSudoku(arr))+"\n")
         print(np.matrix(arr))
     else:
-        solveSudoku(sys.argv[1])
+        solveSudoku(list(sys.argv[1]))
         print(np.matrix(sys.argv[1]))
